@@ -8,7 +8,7 @@ function Navbar() {
         <header>
             <nav className='container'>
                 <div className='dsmovie-nav-content'>
-                    <h1>DSMovie</h1>
+                    <h1>MayconInforgamesMovie</h1>
                     <a href="https://github.com/MayconInforGames2017">
                         <div className='dsmovie-contact-conteiner'>
                             <GithubIcon />
